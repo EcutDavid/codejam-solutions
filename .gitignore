@@ -1,2 +1,5 @@
 *.out
 node_modules
+practice
+.eslintrc.js
+package.json

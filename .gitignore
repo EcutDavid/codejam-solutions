@@ -3,3 +3,4 @@ node_modules
 practice
 .eslintrc.js
 package.json
+*.case
